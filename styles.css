@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+nav{
+    height: 100px;
+    width: 1520px;
+    background-color: white;
+    border: 5px solid olivedrab;
+    text-align: center; 
+    text-emphasis-color: olivedrab;  
+    border-radius: 3px;
+}
+
+.content{
+    width: 1530px;
+    height:300px;
+    background-color: olivedrab; 
+}
+    
